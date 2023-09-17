@@ -14,6 +14,22 @@ img{
     border-radius: 10px;
 }
 
+.animate__animated.animate__bounce {
+    --animate-duration: 2s;
+  }
+  
+  /* This changes all the animations globally */
+  :root {
+    --animate-duration: 800ms;
+    --animate-delay: 0.9s;
+  }
+
+.titleAnimado{
+    text-align: center;
+    padding: 30px;
+  }
+
+
 #fotoCreateBy{
     border-radius: 50%;
     width: 85%;
