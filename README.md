@@ -3,7 +3,7 @@
 
  Objetivos:
 
-🎯 Alvo: Criar um Card Personaliazado;
+🎯 Alvo: Criar um Card Personaliazado;<br/><br/><br/><br/><br/><br/>
 🎯 Alvo: Criar um Card Visual sobre Livros e Bibliotecas;
 🎯 Alvo: Ordenar os livros por "categoria", "gênero", "capa" e entre outros;
 🎯 Alvo: Card;
